@@ -8,5 +8,5 @@ spring:
     config:
       server: 
         git: 
-          uri: https://github.com/java-spring-microservice/server-config
+          uri: https://github.com/java-spring-microservice/server-config    
           default-label: main
